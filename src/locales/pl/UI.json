@@ -10,9 +10,8 @@
     "Venus Next": "Wenus",
     "Colonies": "Kolonie",
     "Turmoil": "Niepokoje",
-    "Promos": "Promos",
 
-   "Fan-made": "Dodatki fanowskie",
+    "Fan-made": "Dodatki fanowskie",
     "Ares": "Ekspansja Terytorialna",
     "Community": "Społeczność",
     "Agendas": "Agendy",
@@ -57,11 +56,9 @@
     "Fast mode": "Tryb szybki",
     "Beginner Options": "Ustawienia dla początkującego",
     "Corporations": "Korporacje",
-    "All": "Wszystkie",
     "None": "Wyczyść",
     "Invert": "Odwróć",
     "Official": "Oficjalne",
-    "Community": "Społeczności",
     "Cards to exclude from the game": "Wybierz karty do wykluczenia",
 
     "Create Game": "Stwórz grę",
@@ -72,6 +69,7 @@
     "Yellow": "Żółty",
     "Blue": "Niebieski",
     "Black": "Czarny",
+    "Purple": "Fioletowy",
 
     "Starting Megacredits: ": "Startowe M€: ",
 
@@ -173,14 +171,12 @@
     "GENERATION 1 OF 12": "POKOLENIE ${0} Z ${1}",
     "PRELUDE": "PRELUDIUM",
 
-
     "Select which cards to take into hand": "Wybierz karty, które weźmiesz na rękę",
 
     "Convert 7 heat into temperature": "Wymień 7 jednostek ciepła aby podnieść Temperaturę",
     "Convert 8 heat into temperature": "Wymień 8 jednostek ciepła aby podnieść Temperaturę",
     "Convert 8 plants into greenery": "Wymień 8 jednostek roślinności aby umieścić na planszy obszar zieleni",
     "Convert 7 plants into greenery": "Wymień 7 jednostek roślinności aby umieścić na planszy obszar zieleni",
-    "Colonies": "Kolonie",
     "funded by": "ufundowany przez:",
     "claimed by": "zdobyte przez:",
     "Error with input": "Niepoprawne wprowadzone dane",
@@ -265,4 +261,4 @@
     "End": "Zakończ",
     "Sell": "Sprzedaj",
     "Undo": "Cofnij"
- }
+}
